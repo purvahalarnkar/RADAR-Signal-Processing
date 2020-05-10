@@ -65,16 +65,3 @@ title('Range/Doppler Response')
 xlabel('Range (m)')
 ylabel('Velocity (m/s)')
 zlabel('Signal power (dB)')
-
-
-
-
-
-
-
-
-
-
-
-
-
